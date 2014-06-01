@@ -6,7 +6,7 @@
   "private": false,
   "main": "./index.js",
   "dependencies": {
-    "q": "~0.9.6"
+    "q": "1.x.x"
   },
   "devDependencies": {
   	"superagent": "~0.15.4"
