@@ -1,6 +1,6 @@
 {
-  "name": "agent-Q",
-  "version": "0.0.3",
+  "name": "qagent",
+  "version": "0.0.1",
   "description": "Very thin wrapper layer between super-agent and Q to promisify superagent's callbacks",
   "author": "Dan Echlin <dan@echl.in>",
   "private": false,
@@ -9,6 +9,6 @@
     "q": "1.x.x"
   },
   "devDependencies": {
-  	"superagent": "~0.15.4"
+  	"superagent": "0.18.x"
   }
 }
